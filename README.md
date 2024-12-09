@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there! I'm Muraleekrishna 👋
 
-<!--
-**Muraleekrishna22/Muraleekrishna22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate and aspiring Web Developer currently diving deep into MERN Stack Development. I enjoy building full-stack web applications and I'm always eager to learn new technologies. 🚀
 
-Here are some ideas to get you started:
+🚀 Technologies I'm Learning & Working With:
+Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript (Currently mastering for full-stack development)
+Java
+C, C++
+HTML5, CSS3 (for front-end development)
+MERN Stack:
+
+MongoDB 
+Express.js 
+React 
+Node.js 
+
+🌱 Currently Learning:
+JavaScript 
+React 
+MongoDB 
+Express.js & Node.js 
+
+My Email: muraleekrishnaappu@gmail.com 
